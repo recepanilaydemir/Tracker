@@ -1,0 +1,5 @@
+{
+  "name": "Orbit Habits",
+  "description": "A GitHub-style habit tracker that allows users to visualize their consistency with contribution graphs, back-date entries, and receive AI-powered insights.",
+  "requestFramePermissions": []
+}
